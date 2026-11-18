@@ -131,6 +131,6 @@ strength = { lightest = 0.25, strongest = 0.75 }
 # Recovery ramdisk source is the last official K60 build. The OS4.0.6.0
 # port supplies the running kernel, vendor_boot and mounted system services;
 # its bundled recovery.img is TWRP and cannot serve as a stock base.
-version = "OS3.0.8.0.VMNCNXM"
-package = "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.8.0.VMNCNXM/mondrian-ota_full-OS3.0.8.0.VMNCNXM-user-15.0-3fb07519a6.zip"
-recovery = "38c7a26bdbb9647372552156ee62f2ae79971184e7623dcb37190bb90b73e230"
+version = "OS3.0.305.0.WMLCNXM"
+package = "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WMLCNXM/corot-ota_full-OS3.0.305.0.WMLCNXM-user-16.0-4beff56444.zip"
+recovery = "3c59b561c4e815ceb9ac92b62c3a2183"
